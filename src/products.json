@@ -1,0 +1,5 @@
+[
+    {"id": "zapatillasMan", "name": "Zapatillas Adidas", "description": "Zapatillas adidas para hombre con camara de aire", "stock": 14},
+    {"id": "zapatillasWoman", "name": "Zapatillas Adidas", "description": "Zapatillas adidas para mujer con camara de aire", "stock": 6},
+    {"id": "remeraUnisex", "name": "Remera Unisex Talle L", "description": "Remera Unisex 100% algodon", "stock": 14}
+]
